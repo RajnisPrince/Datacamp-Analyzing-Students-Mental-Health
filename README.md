@@ -37,9 +37,6 @@ The dataset includes diagnostic measurements from various mental health tests al
 * **Length of Stay:** Initial exploratory findings suggest that the length of stay for international students correlates closely with changes in their acculturative stress levels.
 * **Social Connectedness:** Higher social connectedness scores (`tosc`) generally correlate with lower overall depression scores (`todep`).
 
----
-
 ## 🚀 How to Run the Project
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/RajnisPrince/Datacamp-Analyzing-Students-Mental-Health.git](https://github.com/RajnisPrince/Datacamp-Analyzing-Students-Mental-Health.git)
+```bash
+git clone [https://github.com/RajnisPrince/Datacamp-Analyzing-Students-Mental-Health.git](https://github.com/RajnisPrince/Datacamp-Analyzing-Students-Mental-Health.git)
